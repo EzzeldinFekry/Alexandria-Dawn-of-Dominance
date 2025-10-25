@@ -1,4 +1,4 @@
-##8-Puzzle Solver
+## 8-Puzzle Solver
 
 A Python implementation of various search algorithms to solve the classic 8-puzzle problem.
 
