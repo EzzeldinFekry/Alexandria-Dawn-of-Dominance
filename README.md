@@ -2,7 +2,7 @@
 
 A Python implementation of various search algorithms to solve the classic 8-puzzle problem.
 
-Overview
+# Overview
 
 This program solves the 8-puzzle (3x3 sliding tile puzzle) using four different search algorithms:
 
